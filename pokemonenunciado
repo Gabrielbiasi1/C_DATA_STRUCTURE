@@ -1,0 +1,9 @@
+//Dois treinadores pokemon, Red e Blue, decidiram travar uma batalha que decidiria o novo campeão do mundo pokemon. Entretanto, eles eram muito preguiçosos e decidiram que deveriam lutar apenas com os seus pokemons mais fortes, ou seja, os que possuem o maior ataque. 
+//Cada treinador possui 6 pokemons, sendo que cada um possui um nome, um ID, uma vida e um ataque. Com isso, o seu trabalho como árbitro da batalha é informar o pokemon escolhido por cada treinador e o vencedor. A batalha acontecerá entre o pokemon escolhido por um treinador contra o pokemon escolhido pelo seu rival e ela irá acabar quando o pokemon mais forte de um dos treinadores for morto, sendo que há a possibilidade de ocorrer um empate caso os dois sejam derrotados no mesmo turno.
+
+//Obs: Caso haja um empate entre os ataques dos pokemons, você deverá escolher aquele que possui o menor ID (não haverão ID´s iguais).
+
+//Obs2: os pokemons sempre atacam ao mesmo tempo, ou seja, a cada turno os dois sofrem dano //
+
+
+
