@@ -1,0 +1,10 @@
+A empresa WOOF está entrando no mercado das redes sociais. Só que ela precisa de um banco de dados para armazenar os dados dos seus usuários.
+O dono da empresa é muito amigo seu, e sabe que você é um ótimo programador, logo, te chamou para implementar esse banco de dados.
+As informações dos usuários que você deve guardar são:
+
+Idade.
+Nome.
+Sexo.
+Estado civil.
+Quantidade de amigos.
+Quantidade de fotos.
